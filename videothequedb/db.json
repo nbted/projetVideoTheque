@@ -1,12 +1,7 @@
     {
       "id": 1,
-<<<<<<< HEAD
 	  "nom":"kwizera",
       "url": "https://www.youtube.com/watch?v=0xOgRAPlEVY"
-=======
-	  "nom":"kwizera"
-      "url":"https://www.youtube.com/watch?v=0xOgRAPlEVY"
->>>>>>> bcd29e97d104f7b9be3fd0520f8f6fef54bddb67
     },
     {
       "id": 2,
