@@ -4,11 +4,13 @@ import { HttpModule } from '@angular/http';
 
 import {VideoUrlService} from './video-url.service'
 import { AppComponent } from './app.component';
+import { SafePipeComponent } from './safe-pipe/safe-pipe.component';
 
 
 @NgModule({
   declarations: [
-    AppComponent
+    AppComponent,
+    SafePipeComponent
   ],
   imports: [
     BrowserModule,
