@@ -26,5 +26,6 @@ f)l'application est lancé sur "http://localhost:4200/"
 
 
 ###Problème 
+1. gestion d'ajout multiple, non gérer , la recherche par url n'a pas marché je voulais le faire par videoId mais le temps à passer vite!
 1. j'ai voulu travailler avec l'api Youtube malheureusement j'ai pas pu terminer je suis arriver sur l'affichage et la lecture des videos!
 3. la gestion des notes aussi.
