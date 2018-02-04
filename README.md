@@ -26,6 +26,5 @@ f)l'application est lancé sur "http://localhost:4200/"
 
 
 ###Problème 
-1. je n'ai pas pu controler le binding des boutton next et previous lors de la pagination
-2. j'ai voulu travailler avec l'api Youtube malheureusement j'ai pas pu terminer je suis arriver sur l'affichage et la lecture des videos!
+1. j'ai voulu travailler avec l'api Youtube malheureusement j'ai pas pu terminer je suis arriver sur l'affichage et la lecture des videos!
 3. la gestion des notes aussi.
