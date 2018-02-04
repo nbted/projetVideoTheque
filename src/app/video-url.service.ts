@@ -30,4 +30,7 @@ export class VideoUrlService {
   editVideoService(id,videoEdit:any){
     return this.http.put(this.url+"/"+id,videoEdit).map((response:Response)=>response.json());
   }
+  searchVideoService(url1){
+    return this.http.get(this.url+"/"+url1).map((response:Response)=>response.json());
+  }
 }

@@ -87,3 +87,12 @@ app.delete('/api/videos/:id', function(req, res) {
  		res.send(JSON.stringify(data)); 
  	});
 })
+
+app.get('/api/video/:url', function(req, res) {
+	var url = req.params.url;
+     console.log("mama " + url)
+ 	mongoDBModule.findVideoByUrl(url, function(data) {
+ 		res.send(JSON.stringify(data)); 
+ 	});
+ 
+});

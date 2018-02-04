@@ -143,3 +143,44 @@ exports.deleteVideo = function(id, callback) {
 		}
 	});
 }
+
+exports.findVideoByUrl = function(url, callback) {
+    MongoClient.connect(urld, function(err, db) {
+        if(!err) {
+        	// La requete mongoDB
+
+            let myquery = { "url": url};
+
+            db.collection("videosMBDS") 
+            .findOne(myquery, function(err, data) {
+            	let reponse;
+
+                if(!err){
+                    reponse = {
+                    	succes: true,
+                        video : data,
+                        error : null,
+                        msg:"Details du video envoyés"
+                    };
+                } else{
+                    reponse = {
+                    	succes: false,
+                        video : null,
+                        error : err,
+                        msg: "erreur lors du find"
+
+                    };
+                }
+                callback(reponse);
+            });
+        } else {
+        	let reponse = reponse = {
+                    	succes: false,
+                        restaurant : null,
+                        error : err,
+                        msg: "erreur de connexion à la base"
+                    };
+            callback(reponse);
+        }
+    });
+}

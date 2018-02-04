@@ -27,24 +27,24 @@ export class CreatevideoComponent implements OnInit {
     if (vid.nomEtudiant.trim() == "" || vid.urlVideo.trim() == "") {
       alert("il faut preciser le nom et l'url")
     }
-    while (i < this.videos.length) {
-      if (this.videos[i]["url"] === vid.urlVideo.trim()) {
-        alert("la video existe déjà!!!!");
-        cont = false;
-        i = this.videos.length
-      }
-      i++;
-      break;
-    }
+    /*this.videourlservice.searchVideoService(vid.urlVideo).subscribe(response=>
+      console.log(response))*/
+    
+   /* if(vid2 !== {}){
+      alert("la video existe déjà!!!!");
+      cont = false;
+    }*/
     if (cont) {
       this.videourlservice.addVideos(vid).subscribe(response => console.log(response.data))
       this.videos.push(vid);
     }
+    
   }
   /*
   onCreateVideo(){
     this.videoCreated.emit(this.video)
   }
   */
+  
 
 }
