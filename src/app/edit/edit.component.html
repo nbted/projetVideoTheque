@@ -1,0 +1,14 @@
+<div class="form-group">
+    <form #formGroup="ngForm">
+      <label for="nom">Nom Etudiant:
+        <input name="nom" type="text"  [(ngModel)]="videoEdit.nom">
+      </label><br>
+      <label for="comments"> Comments :
+        <textarea rows="15" cols="50" name="comments" type="text"  [(ngModel)]="videoEdit.comments">
+        </textarea>
+      </label><br>
+      <button id ="edit" class="btn btn-primary" type="submit" (click)="editVideo();" routerLink="/">Edit</button>
+    </form>
+
+    <!-- -->
+  </div>

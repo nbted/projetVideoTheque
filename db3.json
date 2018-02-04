@@ -1,0 +1,1662 @@
+{
+ "kind": "youtube#searchListResponse",
+ "etag": "\"Wu2llbfqCdxIVjGbVPm2DslKPCA/eOznSyVxR5kqONdm_AIyM_9-JUs\"",
+ "nextPageToken": "CDIQAA",
+ "regionCode": "FR",
+ "pageInfo": {
+  "totalResults": 355,
+  "resultsPerPage": 50
+ },
+ "items": [
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"Wu2llbfqCdxIVjGbVPm2DslKPCA/1bDke4ra3FkKVz295JfNeBP1Iqo\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "QKmHCTxgsAw"
+   },
+   "snippet": {
+    "publishedAt": "2018-01-30T22:31:58.000Z",
+    "channelId": "UCgaWEy7mC4ClOa4v-fPXlog",
+    "title": "Pass The Aux: Trinidad Cardona",
+    "description": "On Episode 1 of Pass The Aux we hit up East Villages A1 Record Shop with Trinidad Cardona to find out what songs and music impacted him growing up and has had an effect on his own music. ...",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/QKmHCTxgsAw/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/QKmHCTxgsAw/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/QKmHCTxgsAw/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "DJENUFFHH",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"Wu2llbfqCdxIVjGbVPm2DslKPCA/fBiDp5kbIfo9TCu1HEMQfu9s99s\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "6RiDxbY_vXY"
+   },
+   "snippet": {
+    "publishedAt": "2017-08-22T01:15:17.000Z",
+    "channelId": "UCgaWEy7mC4ClOa4v-fPXlog",
+    "title": "Tyrese, Ty Hunter + More Highlight The Women That Rock In Their Lives At Black Girls Rock",
+    "description": "http://thatsenuff.com https://www.instagram.com/thatsenuff https://twitter.com/thatsenuff https://www.facebook.com/djenuff.",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/6RiDxbY_vXY/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/6RiDxbY_vXY/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/6RiDxbY_vXY/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "DJENUFFHH",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"Wu2llbfqCdxIVjGbVPm2DslKPCA/7K7hNLHjpPUTO8LkGlOuHx0kyWY\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "5hiA0WU0F6E"
+   },
+   "snippet": {
+    "publishedAt": "2017-08-12T14:48:00.000Z",
+    "channelId": "UCgaWEy7mC4ClOa4v-fPXlog",
+    "title": "Smoke DZA, Chris Rivers, Kid Daytona + More Play Hip Hop Trivia Backstage At PeterPalooza VI",
+    "description": "http://thatsenuff.com https://www.instagram.com/thatsenuff https://twitter.com/thatsenuff https://www.facebook.com/djenuff.",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/5hiA0WU0F6E/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/5hiA0WU0F6E/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/5hiA0WU0F6E/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "DJENUFFHH",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"Wu2llbfqCdxIVjGbVPm2DslKPCA/LRl4hF_bHvfrXk1dvEWC8ijtKnU\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "eSCXE70HHds"
+   },
+   "snippet": {
+    "publishedAt": "2017-08-09T23:58:19.000Z",
+    "channelId": "UCgaWEy7mC4ClOa4v-fPXlog",
+    "title": "The Hot Box: Noah-O",
+    "description": "http://thatsenuff.com https://www.instagram.com/thatsenuff https://twitter.com/thatsenuff https://www.facebook.com/djenuff.",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/eSCXE70HHds/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/eSCXE70HHds/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/eSCXE70HHds/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "DJENUFFHH",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"Wu2llbfqCdxIVjGbVPm2DslKPCA/wsxkrHnXZz709JDQj0VZ_WPh_ZY\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "Tt8phlkK2q8"
+   },
+   "snippet": {
+    "publishedAt": "2017-07-20T19:04:24.000Z",
+    "channelId": "UCgaWEy7mC4ClOa4v-fPXlog",
+    "title": "Kevin Liles and London On Da Track Talk #Freestyle50, Verizon Sponsorship + A Freestyle!",
+    "description": "http://thatsenuff.com https://www.instagram.com/thatsenuff https://twitter.com/thatsenuff https://www.facebook.com/djenuff.",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/Tt8phlkK2q8/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/Tt8phlkK2q8/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/Tt8phlkK2q8/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "DJENUFFHH",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"Wu2llbfqCdxIVjGbVPm2DslKPCA/Ggg-ZDorkhHnwif0bi0Fcfaf_6M\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "SfL5uQm1KuM"
+   },
+   "snippet": {
+    "publishedAt": "2017-07-20T16:00:05.000Z",
+    "channelId": "UCgaWEy7mC4ClOa4v-fPXlog",
+    "title": "The Hot Box: Snoopy Dinero",
+    "description": "http://thatsenuff.com https://www.instagram.com/thatsenuff https://twitter.com/thatsenuff https://www.facebook.com/djenuff.",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/SfL5uQm1KuM/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/SfL5uQm1KuM/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/SfL5uQm1KuM/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "DJENUFFHH",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"Wu2llbfqCdxIVjGbVPm2DslKPCA/HndZGt0Ct8ePTBoDJHLNZndBzWw\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "E0mgHTBbuvQ"
+   },
+   "snippet": {
+    "publishedAt": "2017-07-18T21:46:14.000Z",
+    "channelId": "UCgaWEy7mC4ClOa4v-fPXlog",
+    "title": "Chaz French Speaks On Relationship With His Father, Being Young x Black In Amerikkka + Debut Album",
+    "description": "http://thatsenuff.com https://www.instagram.com/thatsenuff https://twitter.com/thatsenuff https://www.facebook.com/djenuff.",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/E0mgHTBbuvQ/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/E0mgHTBbuvQ/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/E0mgHTBbuvQ/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "DJENUFFHH",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"Wu2llbfqCdxIVjGbVPm2DslKPCA/6AadgcNvInU2x9iJLJtKYLMAff4\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "JCtjIMKEKN8"
+   },
+   "snippet": {
+    "publishedAt": "2017-07-14T15:55:38.000Z",
+    "channelId": "UCgaWEy7mC4ClOa4v-fPXlog",
+    "title": "THE HOT BOX: VIC MENSA",
+    "description": "http://thatsenuff.com https://www.instagram.com/thatsenuff https://twitter.com/thatsenuff https://www.facebook.com/djenuff.",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/JCtjIMKEKN8/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/JCtjIMKEKN8/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/JCtjIMKEKN8/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "DJENUFFHH",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"Wu2llbfqCdxIVjGbVPm2DslKPCA/df7XJIP2XdoIy5g2Av2CZKNfzQo\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "IYOYeqAr_ZQ"
+   },
+   "snippet": {
+    "publishedAt": "2017-07-14T11:36:08.000Z",
+    "channelId": "UCgaWEy7mC4ClOa4v-fPXlog",
+    "title": "THE HOT BOX:  CRIMEAPPLE",
+    "description": "http://thatsenuff.com https://www.instagram.com/thatsenuff https://twitter.com/thatsenuff https://www.facebook.com/djenuff.",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/IYOYeqAr_ZQ/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/IYOYeqAr_ZQ/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/IYOYeqAr_ZQ/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "DJENUFFHH",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"Wu2llbfqCdxIVjGbVPm2DslKPCA/RLuaXu4XzFZC4FXB4OFidX9-gX0\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "R53y0uwpFGo"
+   },
+   "snippet": {
+    "publishedAt": "2017-07-11T17:53:31.000Z",
+    "channelId": "UCgaWEy7mC4ClOa4v-fPXlog",
+    "title": "HOT BOX: WESTSIDE PARLE",
+    "description": "http://thatsenuff.com https://www.instagram.com/thatsenuff https://twitter.com/thatsenuff https://www.facebook.com/djenuff.",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/R53y0uwpFGo/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/R53y0uwpFGo/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/R53y0uwpFGo/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "DJENUFFHH",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"Wu2llbfqCdxIVjGbVPm2DslKPCA/vXdY6chRv0q1_7DIE87odFYy92M\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "aNARAq1rvC8"
+   },
+   "snippet": {
+    "publishedAt": "2017-07-05T14:10:08.000Z",
+    "channelId": "UCgaWEy7mC4ClOa4v-fPXlog",
+    "title": "The Hot Box: Joe Gifted",
+    "description": "http://thatsenuff.com https://www.instagram.com/thatsenuff https://twitter.com/thatsenuff https://www.facebook.com/djenuff.",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/aNARAq1rvC8/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/aNARAq1rvC8/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/aNARAq1rvC8/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "DJENUFFHH",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"Wu2llbfqCdxIVjGbVPm2DslKPCA/RidERFekOhXkUugrND0t0f9dnBk\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "VtsmXGSMEmA"
+   },
+   "snippet": {
+    "publishedAt": "2017-06-30T14:59:37.000Z",
+    "channelId": "UCgaWEy7mC4ClOa4v-fPXlog",
+    "title": "Hot Box: Corey Finesse",
+    "description": "http://thatsenuff.com https://www.instagram.com/thatsenuff https://twitter.com/thatsenuff https://www.facebook.com/djenuff.",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/VtsmXGSMEmA/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/VtsmXGSMEmA/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/VtsmXGSMEmA/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "DJENUFFHH",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"Wu2llbfqCdxIVjGbVPm2DslKPCA/6iI9OPh_Hsa8OZSO3AyveDbwyeY\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "SpfVRAzQpos"
+   },
+   "snippet": {
+    "publishedAt": "2017-06-29T17:06:11.000Z",
+    "channelId": "UCgaWEy7mC4ClOa4v-fPXlog",
+    "title": "Hot Box: Bub Styles",
+    "description": "http://thatsenuff.com https://www.instagram.com/thatsenuff https://twitter.com/thatsenuff https://www.facebook.com/djenuff.",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/SpfVRAzQpos/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/SpfVRAzQpos/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/SpfVRAzQpos/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "DJENUFFHH",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"Wu2llbfqCdxIVjGbVPm2DslKPCA/huhEdSRDQ2Rd6GNeLz7_W5vtSiM\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "lyGFRQqd3CQ"
+   },
+   "snippet": {
+    "publishedAt": "2017-06-22T18:31:59.000Z",
+    "channelId": "UCgaWEy7mC4ClOa4v-fPXlog",
+    "title": "The Cast of Starz Power Give A Sneak Peek Into Season 4",
+    "description": "http://thatsenuff.com https://www.instagram.com/thatsenuff https://twitter.com/thatsenuff https://www.facebook.com/djenuff.",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/lyGFRQqd3CQ/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/lyGFRQqd3CQ/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/lyGFRQqd3CQ/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "DJENUFFHH",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"Wu2llbfqCdxIVjGbVPm2DslKPCA/H-kLll6SLjpZVFV5ObqHkRwwdYg\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "C0juXg92-uk"
+   },
+   "snippet": {
+    "publishedAt": "2017-06-16T23:36:58.000Z",
+    "channelId": "UCgaWEy7mC4ClOa4v-fPXlog",
+    "title": "DJ Enuff Talks To The Head Of Monster",
+    "description": "http://thatsenuff.com https://www.instagram.com/thatsenuff https://twitter.com/thatsenuff https://www.facebook.com/djenuff.",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/C0juXg92-uk/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/C0juXg92-uk/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/C0juXg92-uk/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "DJENUFFHH",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"Wu2llbfqCdxIVjGbVPm2DslKPCA/YQ0JsvWUb9yKhUvqIKnBrBfXfT4\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "hJ0cQlAFMZs"
+   },
+   "snippet": {
+    "publishedAt": "2017-06-09T17:38:57.000Z",
+    "channelId": "UCgaWEy7mC4ClOa4v-fPXlog",
+    "title": "The Hot Box: Sekou, Lendell, Xavier",
+    "description": "http://thatsenuff.com https://www.instagram.com/thatsenuff https://twitter.com/thatsenuff https://www.facebook.com/djenuff.",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/hJ0cQlAFMZs/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/hJ0cQlAFMZs/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/hJ0cQlAFMZs/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "DJENUFFHH",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"Wu2llbfqCdxIVjGbVPm2DslKPCA/wz10N6NwD2UZefpyCwPc_nyqQl4\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "cx6Fu06DSvQ"
+   },
+   "snippet": {
+    "publishedAt": "2017-05-30T22:20:37.000Z",
+    "channelId": "UCgaWEy7mC4ClOa4v-fPXlog",
+    "title": "The Hot Box: WORDSMIFF",
+    "description": "http://thatsenuff.com https://www.instagram.com/thatsenuff https://twitter.com/thatsenuff https://www.facebook.com/djenuff.",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/cx6Fu06DSvQ/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/cx6Fu06DSvQ/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/cx6Fu06DSvQ/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "DJENUFFHH",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"Wu2llbfqCdxIVjGbVPm2DslKPCA/TDY5_hs0rsjN5_qb_ghN60VOYYs\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "BnAXwj-LflQ"
+   },
+   "snippet": {
+    "publishedAt": "2017-05-24T21:42:41.000Z",
+    "channelId": "UCgaWEy7mC4ClOa4v-fPXlog",
+    "title": "Brian Angel On Upcoming Day 26 Reunion Concert, Going Solo and and Life After Bad Boy",
+    "description": "http://thatsenuff.com https://www.instagram.com/thatsenuff https://twitter.com/thatsenuff https://www.facebook.com/djenuff.",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/BnAXwj-LflQ/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/BnAXwj-LflQ/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/BnAXwj-LflQ/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "DJENUFFHH",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"Wu2llbfqCdxIVjGbVPm2DslKPCA/27Tx1XFOXaVdw-K5Bu-4SgRaeXY\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "VlZEjGZDEDU"
+   },
+   "snippet": {
+    "publishedAt": "2017-05-22T18:36:59.000Z",
+    "channelId": "UCgaWEy7mC4ClOa4v-fPXlog",
+    "title": "THE HOT BOX: PHRESHER vol. 2",
+    "description": "http://thatsenuff.com https://www.instagram.com/thatsenuff https://twitter.com/thatsenuff https://www.facebook.com/djenuff.",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/VlZEjGZDEDU/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/VlZEjGZDEDU/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/VlZEjGZDEDU/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "DJENUFFHH",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"Wu2llbfqCdxIVjGbVPm2DslKPCA/b43CB7KWvhzhmawhsuoX_jFyqhU\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "Gterh2KsOFE"
+   },
+   "snippet": {
+    "publishedAt": "2017-05-18T19:48:43.000Z",
+    "channelId": "UCgaWEy7mC4ClOa4v-fPXlog",
+    "title": "The Hot Box: Haddy Racks",
+    "description": "http://thatsenuff.com https://www.instagram.com/thatsenuff https://twitter.com/thatsenuff https://www.facebook.com/djenuff.",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/Gterh2KsOFE/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/Gterh2KsOFE/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/Gterh2KsOFE/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "DJENUFFHH",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"Wu2llbfqCdxIVjGbVPm2DslKPCA/9hM6ZRIkuaA6rrpuHzoaGuPVvc8\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "Wi4U5oroi40"
+   },
+   "snippet": {
+    "publishedAt": "2017-05-12T15:13:27.000Z",
+    "channelId": "UCgaWEy7mC4ClOa4v-fPXlog",
+    "title": "The Hot Box: Chaz French",
+    "description": "http://thatsenuff.com https://www.instagram.com/thatsenuff https://twitter.com/thatsenuff https://www.facebook.com/djenuff.",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/Wi4U5oroi40/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/Wi4U5oroi40/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/Wi4U5oroi40/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "DJENUFFHH",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"Wu2llbfqCdxIVjGbVPm2DslKPCA/wkHsOo_hVNo99-s3ipvBctDtwzc\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "eZjXe4tMazo"
+   },
+   "snippet": {
+    "publishedAt": "2017-05-07T22:07:13.000Z",
+    "channelId": "UCgaWEy7mC4ClOa4v-fPXlog",
+    "title": "THE HOT BOX: IMAN",
+    "description": "http://thatsenuff.com https://www.instagram.com/thatsenuff https://twitter.com/thatsenuff https://www.facebook.com/djenuff.",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/eZjXe4tMazo/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/eZjXe4tMazo/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/eZjXe4tMazo/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "DJENUFFHH",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"Wu2llbfqCdxIVjGbVPm2DslKPCA/cKz2ffKj6-HsiTw3wA-AdF2s-Zw\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "MN3DiTO-RF4"
+   },
+   "snippet": {
+    "publishedAt": "2017-05-02T17:11:55.000Z",
+    "channelId": "UCgaWEy7mC4ClOa4v-fPXlog",
+    "title": "THE HOT BOX: MOE CHIPPS",
+    "description": "http://thatsenuff.com https://www.instagram.com/thatsenuff https://twitter.com/thatsenuff https://www.facebook.com/djenuff.",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/MN3DiTO-RF4/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/MN3DiTO-RF4/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/MN3DiTO-RF4/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "DJENUFFHH",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"Wu2llbfqCdxIVjGbVPm2DslKPCA/PzXuR9V5sLtid_CcaM404FneBtk\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "IdEbphhH6Uo"
+   },
+   "snippet": {
+    "publishedAt": "2017-04-28T15:42:15.000Z",
+    "channelId": "UCgaWEy7mC4ClOa4v-fPXlog",
+    "title": "The Hot Box: Denzil Porter",
+    "description": "http://thatsenuff.com https://www.instagram.com/thatsenuff https://twitter.com/thatsenuff https://www.facebook.com/djenuff.",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/IdEbphhH6Uo/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/IdEbphhH6Uo/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/IdEbphhH6Uo/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "DJENUFFHH",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"Wu2llbfqCdxIVjGbVPm2DslKPCA/NreCzZKt_-Ao8AaB7BgrhXmWi0g\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "k-fe3oT1y5Q"
+   },
+   "snippet": {
+    "publishedAt": "2017-04-17T20:59:23.000Z",
+    "channelId": "UCgaWEy7mC4ClOa4v-fPXlog",
+    "title": "Angel On U.K. Hip Hop & Grime Music Scene + Meeting His Mentor Swizz Beatz",
+    "description": "http://thatsenuff.com https://www.instagram.com/thatsenuff https://twitter.com/thatsenuff https://www.facebook.com/djenuff.",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/k-fe3oT1y5Q/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/k-fe3oT1y5Q/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/k-fe3oT1y5Q/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "DJENUFFHH",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"Wu2llbfqCdxIVjGbVPm2DslKPCA/t4UVr63KtcqFkskX653c3NFPRvo\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "E7Y_kcmN5d0"
+   },
+   "snippet": {
+    "publishedAt": "2017-04-16T10:40:47.000Z",
+    "channelId": "UCgaWEy7mC4ClOa4v-fPXlog",
+    "title": "THE HOT BOX:  FINAL OUTLAW",
+    "description": "http://thatsenuff.com https://www.instagram.com/thatsenuff https://twitter.com/thatsenuff https://www.facebook.com/djenuff.",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/E7Y_kcmN5d0/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/E7Y_kcmN5d0/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/E7Y_kcmN5d0/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "DJENUFFHH",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"Wu2llbfqCdxIVjGbVPm2DslKPCA/24hR0umjqky-NpwK3eMLNN51NLc\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "l5F-0omp7gg"
+   },
+   "snippet": {
+    "publishedAt": "2017-04-12T14:02:23.000Z",
+    "channelId": "UCgaWEy7mC4ClOa4v-fPXlog",
+    "title": "Hot Box: Shotgun Suge",
+    "description": "http://thatsenuff.com https://www.instagram.com/thatsenuff https://twitter.com/thatsenuff https://www.facebook.com/djenuff.",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/l5F-0omp7gg/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/l5F-0omp7gg/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/l5F-0omp7gg/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "DJENUFFHH",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"Wu2llbfqCdxIVjGbVPm2DslKPCA/cjZC-9MDr7WCmHoZ0o_IiSAwZ7c\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "N4c6TT1CSkY"
+   },
+   "snippet": {
+    "publishedAt": "2017-03-31T19:26:08.000Z",
+    "channelId": "UCgaWEy7mC4ClOa4v-fPXlog",
+    "title": "THE HOT BOX: TYRA B",
+    "description": "http://thatsenuff.com https://www.instagram.com/thatsenuff https://twitter.com/thatsenuff https://www.facebook.com/djenuff.",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/N4c6TT1CSkY/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/N4c6TT1CSkY/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/N4c6TT1CSkY/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "DJENUFFHH",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"Wu2llbfqCdxIVjGbVPm2DslKPCA/htpCdOy5B_eZ3SCNsW4HazDGOvI\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "0bBWHRp6F3k"
+   },
+   "snippet": {
+    "publishedAt": "2017-03-23T09:14:56.000Z",
+    "channelId": "UCgaWEy7mC4ClOa4v-fPXlog",
+    "title": "THE HOT BOX: FLO KENNEDY",
+    "description": "http://thatsenuff.com https://www.instagram.com/thatsenuff https://twitter.com/thatsenuff https://www.facebook.com/djenuff.",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/0bBWHRp6F3k/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/0bBWHRp6F3k/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/0bBWHRp6F3k/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "DJENUFFHH",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"Wu2llbfqCdxIVjGbVPm2DslKPCA/lY-QLt0JevJ0gXSG6-7vHyb3TEE\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "koudZCOhrTs"
+   },
+   "snippet": {
+    "publishedAt": "2017-03-21T21:34:34.000Z",
+    "channelId": "UCgaWEy7mC4ClOa4v-fPXlog",
+    "title": "The Hot Box: Superstar Floss",
+    "description": "http://thatsenuff.com https://www.instagram.com/thatsenuff https://twitter.com/thatsenuff https://www.facebook.com/djenuff.",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/koudZCOhrTs/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/koudZCOhrTs/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/koudZCOhrTs/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "DJENUFFHH",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"Wu2llbfqCdxIVjGbVPm2DslKPCA/C1HZlsSYyCC34EkkkaZKPDZ73P8\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "mShR-lqHYwc"
+   },
+   "snippet": {
+    "publishedAt": "2017-03-15T16:17:09.000Z",
+    "channelId": "UCgaWEy7mC4ClOa4v-fPXlog",
+    "title": "The Hot Box: Shadow The Great",
+    "description": "http://thatsenuff.com https://www.instagram.com/thatsenuff https://twitter.com/thatsenuff https://www.facebook.com/djenuff.",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/mShR-lqHYwc/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/mShR-lqHYwc/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/mShR-lqHYwc/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "DJENUFFHH",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"Wu2llbfqCdxIVjGbVPm2DslKPCA/aVpG9DvNn8JQ5OHrBdNt24AObxg\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "HA5k-i6Oi94"
+   },
+   "snippet": {
+    "publishedAt": "2017-03-12T10:53:16.000Z",
+    "channelId": "UCgaWEy7mC4ClOa4v-fPXlog",
+    "title": "The Hot Box: Shine Sinatra",
+    "description": "http://thatsenuff.com https://www.instagram.com/thatsenuff https://twitter.com/thatsenuff https://www.facebook.com/djenuff.",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/HA5k-i6Oi94/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/HA5k-i6Oi94/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/HA5k-i6Oi94/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "DJENUFFHH",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"Wu2llbfqCdxIVjGbVPm2DslKPCA/TcPAMK0Lns291PHawbvafaLJRbk\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "1Eo4BpKhAGE"
+   },
+   "snippet": {
+    "publishedAt": "2017-03-10T10:31:32.000Z",
+    "channelId": "UCgaWEy7mC4ClOa4v-fPXlog",
+    "title": "The Hot Box: Loaf Muzik",
+    "description": "http://thatsenuff.com https://www.instagram.com/thatsenuff https://twitter.com/thatsenuff https://www.facebook.com/djenuff.",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/1Eo4BpKhAGE/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/1Eo4BpKhAGE/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/1Eo4BpKhAGE/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "DJENUFFHH",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"Wu2llbfqCdxIVjGbVPm2DslKPCA/OCCjBUJhTzNjCw-WcOsSxLHv_PU\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "oJGF94AaUho"
+   },
+   "snippet": {
+    "publishedAt": "2017-03-10T10:31:44.000Z",
+    "channelId": "UCgaWEy7mC4ClOa4v-fPXlog",
+    "title": "PNB Rock On GTTM, His Uncles Murder and Growing Up In Philly",
+    "description": "http://thatsenuff.com https://www.instagram.com/thatsenuff https://twitter.com/thatsenuff https://www.facebook.com/djenuff.",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/oJGF94AaUho/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/oJGF94AaUho/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/oJGF94AaUho/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "DJENUFFHH",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"Wu2llbfqCdxIVjGbVPm2DslKPCA/NNv7WXK67Y18kXk3DHwoTKGfH0E\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "dNhteW7uPHQ"
+   },
+   "snippet": {
+    "publishedAt": "2017-03-09T22:56:06.000Z",
+    "channelId": "UCgaWEy7mC4ClOa4v-fPXlog",
+    "title": "THE HOT BOX: YOUNG NASARO",
+    "description": "http://thatsenuff.com https://www.instagram.com/thatsenuff https://twitter.com/thatsenuff https://www.facebook.com/thatsenuff.",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/dNhteW7uPHQ/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/dNhteW7uPHQ/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/dNhteW7uPHQ/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "DJENUFFHH",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"Wu2llbfqCdxIVjGbVPm2DslKPCA/UYu14MRjkVToBLIezJisyoeeV7g\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "4OAt8uyxUFI"
+   },
+   "snippet": {
+    "publishedAt": "2017-03-05T11:03:44.000Z",
+    "channelId": "UCgaWEy7mC4ClOa4v-fPXlog",
+    "title": "The Hot Box: Lil Shakur",
+    "description": "http://thatsenuff.com https://www.instagram.com/thatsenuff https://twitter.com/thatsenuff https://www.facebook.com/thatsenuff.",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/4OAt8uyxUFI/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/4OAt8uyxUFI/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/4OAt8uyxUFI/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "DJENUFFHH",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"Wu2llbfqCdxIVjGbVPm2DslKPCA/c2RRGo-WICFx7t7InKL95gRYwXk\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "yX0CnQM_EK4"
+   },
+   "snippet": {
+    "publishedAt": "2017-03-02T21:32:27.000Z",
+    "channelId": "UCgaWEy7mC4ClOa4v-fPXlog",
+    "title": "The Hot Box: T Juliette",
+    "description": "http://thatsenuff.com https://www.instagram.com/thatsenuff https://twitter.com/thatsenuff https://www.facebook.com/thatsenuff.",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/yX0CnQM_EK4/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/yX0CnQM_EK4/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/yX0CnQM_EK4/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "DJENUFFHH",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"Wu2llbfqCdxIVjGbVPm2DslKPCA/GSGFNJsyVMUDmoizvxq49FGN3lU\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "4Vm-sRXQ9mE"
+   },
+   "snippet": {
+    "publishedAt": "2017-02-19T22:27:17.000Z",
+    "channelId": "UCgaWEy7mC4ClOa4v-fPXlog",
+    "title": "The Hot Box: Twan Da Dude",
+    "description": "http://thatsenuff.com https://www.instagram.com/thatsenuff https://twitter.com/thatsenuff https://www.facebook.com/thatsenuff.",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/4Vm-sRXQ9mE/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/4Vm-sRXQ9mE/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/4Vm-sRXQ9mE/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "DJENUFFHH",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"Wu2llbfqCdxIVjGbVPm2DslKPCA/-z9Enbu_-BWPwoLnZnrj4NjLt5Y\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "fhf7pmFpqcM"
+   },
+   "snippet": {
+    "publishedAt": "2017-02-14T21:24:06.000Z",
+    "channelId": "UCgaWEy7mC4ClOa4v-fPXlog",
+    "title": "The Hot Box: Don Q",
+    "description": "http://thatsenuff.com https://www.instagram.com/thatsenuff https://twitter.com/thatsenuff https://www.facebook.com/thatsenuff.",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/fhf7pmFpqcM/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/fhf7pmFpqcM/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/fhf7pmFpqcM/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "DJENUFFHH",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"Wu2llbfqCdxIVjGbVPm2DslKPCA/Zd2-jT1rOvgbfCT7IVM6xDPft4Q\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "DO6OprjJUb4"
+   },
+   "snippet": {
+    "publishedAt": "2017-02-10T15:55:07.000Z",
+    "channelId": "UCgaWEy7mC4ClOa4v-fPXlog",
+    "title": "The Hot Box:  Lucky Mula",
+    "description": "http://thatsenuff.com https://www.instagram.com/thatsenuff https://twitter.com/thatsenuff https://www.facebook.com/thatsenuff.",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/DO6OprjJUb4/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/DO6OprjJUb4/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/DO6OprjJUb4/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "DJENUFFHH",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"Wu2llbfqCdxIVjGbVPm2DslKPCA/gDsjQpPjUQa9eIw8Mu0QEkPnoiY\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "w2cuWQyWHz0"
+   },
+   "snippet": {
+    "publishedAt": "2017-02-08T20:34:01.000Z",
+    "channelId": "UCgaWEy7mC4ClOa4v-fPXlog",
+    "title": "The Day After | VLOG #2",
+    "description": "http://thatsenuff.com https://www.instagram.com/thatsenuff https://twitter.com/thatsenuff https://www.facebook.com/DJenuff.",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/w2cuWQyWHz0/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/w2cuWQyWHz0/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/w2cuWQyWHz0/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "DJENUFFHH",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"Wu2llbfqCdxIVjGbVPm2DslKPCA/bsHGYFiNvFWojLtAqi6ltrGoCcg\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "XEg28kPZsog"
+   },
+   "snippet": {
+    "publishedAt": "2017-02-07T23:11:31.000Z",
+    "channelId": "UCgaWEy7mC4ClOa4v-fPXlog",
+    "title": "THE HOT BOX: UFO FEV",
+    "description": "http://thatsenuff.com https://www.instagram.com/thatsenuff https://twitter.com/thatsenuff https://www.facebook.com/thatsenuff.",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/XEg28kPZsog/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/XEg28kPZsog/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/XEg28kPZsog/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "DJENUFFHH",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"Wu2llbfqCdxIVjGbVPm2DslKPCA/a2QacSzohdXdYoX4aVUjcXiabIg\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "V4d8Afv8Om4"
+   },
+   "snippet": {
+    "publishedAt": "2017-02-03T23:56:35.000Z",
+    "channelId": "UCgaWEy7mC4ClOa4v-fPXlog",
+    "title": "The Hot Box: Wyclef Jean, Farina, Jazzy, and Allyson",
+    "description": "http://thatsenuff.com https://www.instagram.com/thatsenuff https://twitter.com/thatsenuff https://www.facebook.com/thatsenuff.",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/V4d8Afv8Om4/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/V4d8Afv8Om4/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/V4d8Afv8Om4/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "DJENUFFHH",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"Wu2llbfqCdxIVjGbVPm2DslKPCA/7odrH8ZyGSLJd4yaPrloF55UMuE\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "eWv-64DWsYM"
+   },
+   "snippet": {
+    "publishedAt": "2017-02-02T21:44:47.000Z",
+    "channelId": "UCgaWEy7mC4ClOa4v-fPXlog",
+    "title": "Brandon & M Marshall Discuss Kneeling During National Anthem, Starting Record Label + More",
+    "description": "http://thatsenuff.com https://www.instagram.com/thatsenuff https://twitter.com/thatsenuff https://www.facebook.com/thatsenuff.",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/eWv-64DWsYM/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/eWv-64DWsYM/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/eWv-64DWsYM/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "DJENUFFHH",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"Wu2llbfqCdxIVjGbVPm2DslKPCA/_G2I-Nw7K0d3h4nA5W2SQIg-JEI\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "EFbQPtEV4qM"
+   },
+   "snippet": {
+    "publishedAt": "2017-01-31T18:44:17.000Z",
+    "channelId": "UCgaWEy7mC4ClOa4v-fPXlog",
+    "title": "Happy Birthday  | VLOG #1",
+    "description": "http://thatsenuff.com https://www.instagram.com/thatsenuff https://twitter.com/thatsenuff https://www.facebook.com/djsenuff.",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/EFbQPtEV4qM/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/EFbQPtEV4qM/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/EFbQPtEV4qM/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "DJENUFFHH",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"Wu2llbfqCdxIVjGbVPm2DslKPCA/_Nip8Ic-fqDxFukBVE0_3poPdbc\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "MSQsDcLoDj4"
+   },
+   "snippet": {
+    "publishedAt": "2017-01-19T23:19:22.000Z",
+    "channelId": "UCgaWEy7mC4ClOa4v-fPXlog",
+    "title": "Dutchess on Ceaser: I Regret Having a Public Relationship + Frustrations with Reality TV’",
+    "description": "http://thatsenuff.com https://www.instagram.com/thatsenuff https://twitter.com/thatsenuff https://www.facebook.com/thatsenuff.",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/MSQsDcLoDj4/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/MSQsDcLoDj4/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/MSQsDcLoDj4/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "DJENUFFHH",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"Wu2llbfqCdxIVjGbVPm2DslKPCA/g-jj8iTLqM7JcD2P5VJvP7XP8ME\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "cmKhpAdDWbs"
+   },
+   "snippet": {
+    "publishedAt": "2017-01-19T23:19:14.000Z",
+    "channelId": "UCgaWEy7mC4ClOa4v-fPXlog",
+    "title": "The Hot Box: Yungg Mont",
+    "description": "http://thatsenuff.com https://www.instagram.com/thatsenuff https://twitter.com/thatsenuff https://www.facebook.com/thatsenuff.",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/cmKhpAdDWbs/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/cmKhpAdDWbs/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/cmKhpAdDWbs/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "DJENUFFHH",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"Wu2llbfqCdxIVjGbVPm2DslKPCA/3uorfXJ01r6wJjaHSeAdAZpH2TQ\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "PxWM6cR6KFU"
+   },
+   "snippet": {
+    "publishedAt": "2017-01-05T16:05:24.000Z",
+    "channelId": "UCgaWEy7mC4ClOa4v-fPXlog",
+    "title": "The Hot Box: Axel",
+    "description": "http://thatsenuff.com https://www.instagram.com/thatsenuff https://twitter.com/thatsenuff https://www.facebook.com/thatsenuff.",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/PxWM6cR6KFU/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/PxWM6cR6KFU/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/PxWM6cR6KFU/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "DJENUFFHH",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"Wu2llbfqCdxIVjGbVPm2DslKPCA/RECLkSm71NBaiLGMWIbMcp3aTUs\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "2OAQ-vxUDCU"
+   },
+   "snippet": {
+    "publishedAt": "2016-12-28T15:53:50.000Z",
+    "channelId": "UCgaWEy7mC4ClOa4v-fPXlog",
+    "title": "DON STACKZ ON THE HOT BOX WITH DJ ENUFF",
+    "description": "http://thatsenuff.com https://www.instagram.com/thatsenuff https://twitter.com/thatsenuff https://www.facebook.com/thatsenuff.",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/2OAQ-vxUDCU/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/2OAQ-vxUDCU/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/2OAQ-vxUDCU/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "DJENUFFHH",
+    "liveBroadcastContent": "none"
+   }
+  },
+  {
+   "kind": "youtube#searchResult",
+   "etag": "\"Wu2llbfqCdxIVjGbVPm2DslKPCA/1RRcSfc_m_Ll0McLZGN-xTUekIw\"",
+   "id": {
+    "kind": "youtube#video",
+    "videoId": "MeR0Ls2o-CI"
+   },
+   "snippet": {
+    "publishedAt": "2016-12-21T16:32:17.000Z",
+    "channelId": "UCgaWEy7mC4ClOa4v-fPXlog",
+    "title": "Grafh Freestyles In The Hot Box",
+    "description": "http://thatsenuff.com https://www.instagram.com/thatsenuff https://twitter.com/thatsenuff https://www.facebook.com/thatsenuff.",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/MeR0Ls2o-CI/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/MeR0Ls2o-CI/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/MeR0Ls2o-CI/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "DJENUFFHH",
+    "liveBroadcastContent": "none"
+   }
+  }
+ ]
+}

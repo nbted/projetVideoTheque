@@ -1,0 +1,19 @@
+
+
+<div class="form-group">
+    <form #formGroup="ngForm">
+      <label for="nom">Nom Etudiant:
+          <input name="nom" type="text" onfocus="this.value=''" [(ngModel)]="video.nomEtudiant" required>
+      </label><br>
+      <label for="url">Url Video:
+          <input name="url" type="text" onfocus="this.value=''" [(ngModel)]="video.urlVideo" required>
+      </label><br>
+      <label for="comments"> Comments :
+          <textarea rows="10" cols="30" name="comments" type="text" onfocus="this.value=''" [(ngModel)]="video.comments"></textarea>
+      </label>
+      
+      <button class="btn btn-default" type="submit" (click)="addVideo(video);formGroup.reset()" >Ajouter video</button>
+    </form>
+
+    <!-- -->
+  </div>

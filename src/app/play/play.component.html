@@ -1,0 +1,16 @@
+<div>
+  <h1>video de : {{videoPlay.nom}}</h1>
+</div>
+<div class="video">
+  <iframe width="900" height="500" [src]="transform(videoPlay.url)" frameborder="120" allowfullscreen>
+
+  </iframe>
+</div>
+<div>
+  <label><h2>Notez Moi :</h2> 
+    <star-rating-comp [starType]="'svg'" [rating]="2.63"></star-rating-comp>
+  </label><br>
+  <label><h2>Description</h2>
+    <p>{{videoPlay.comments}}</p>
+  </label>
+</div>

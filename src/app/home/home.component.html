@@ -1,0 +1,67 @@
+
+  <div class="row" > 
+    <div class="col-sm-4" *ngFor="let video of videos" >
+        <img [src]="video.img" (click)="sendMessage(video)" routerLink="/playvideo">
+        <label>video de : {{video.nom}} <star-rating-comp [disabled]="true" [starType]="'svg'" [rating]="2.63"></star-rating-comp></label><br>
+        <div>
+            <button class="btn btn-danger" (click)="deleteVideo(video);">delete video</button>
+            <button id ="edit" class="btn btn-default" (click)="sendMessage(video)" routerLink="/editvideo">Edit video</button>
+            <button id ="play" class="btn  btn-success"  (click)="sendMessage(video)" routerLink="/playvideo">Play video</button>
+        </div>
+    </div>
+  </div>
+  <div class="row">
+  <div class="col-sm-2">
+  </div>
+   <div class="col-sm-6">
+         <button ng-model="previous"  class="btn btn-info" (click)="previousVideos()">Previous</button>
+   </div>
+   <div class="col-sm-4">
+      <button class="btn btn-warning" (click)="nextVideos()" >Next</button>
+   </div>
+  </div>
+
+
+
+
+<!--
+<div class="container">
+
+  <ul class="list-group">
+    <li class="list-group-item" *ngFor="let video of videos">
+      <div class="row">
+        <div class="col-sm-4">
+          <iframe width="420" height="345" [src]="transform(video.url)" frameborder="120" allowfullscreen>
+
+          </iframe>
+        </div>
+        <div class="col-sm-4">
+          <h2>video de : {{video.nom}}</h2>
+          <p>{{video.comments}}</p>
+          <p>Notez Moi! :
+            <star-rating-comp [starType]="'svg'" [rating]="2.63"></star-rating-comp>
+          </p>
+          <button class="btn btn-danger" (click)="deleteVideo(video);">supprimer la video</button>
+
+        </div>
+        <div class="col-sm-3">
+          <div class="form-group">
+            <form #formGroup="ngForm">
+              <label for="nom">Nom Etudiant:
+                <input name="nom" type="text"  [(ngModel)]="videoEdit.nomEtudiant">
+              </label>
+              <label for="comments"> Comments :
+                <textarea rows="4" cols="30" name="comments" type="text"  [(ngModel)]="videoEdit.comments">
+                </textarea>
+              </label>
+              <button id ="edit" class="btn btn-default" type="submit" (click)="editVideo(video);">Edit</button>
+            </form>
+
+            
+          </div>
+        </div>
+      </div>
+
+    </li>
+  </ul>
+</div>-->
