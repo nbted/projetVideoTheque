@@ -32,6 +32,7 @@ exports.addVideos = function(formData,callback){
         if(!err){
 			
             let videoInsert = {
+				img : "https://i.ytimg.com/vi/N4c6TT1CSkY/hqdefault.jpg",
                 nom : formData.nomEtudiant,
                 url : formData.urlVideo,
                 comments:formData.comments
