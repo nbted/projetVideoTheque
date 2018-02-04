@@ -23,13 +23,17 @@ export class HomeComponent implements OnInit {
    page=0;
    pagesize=6;
    pagesizemax;
-   disabled:boolean =true;
-   disabled1:boolean = false;
+   next:boolean=false;
+   previous:boolean=true;
   @Output() videoEdited:EventEmitter<any>= new EventEmitter<any>();
   constructor(private videourlservice: VideoUrlService,private dataService:DataService,private sanitizer: DomSanitizer) { }
   ngOnInit(): void {
-    this.videourlservice.getVideos(this.page).subscribe(response => this.videos = response.data)
-    console.log(this.disabled)
+    this.videourlservice.getVideos(this.page).subscribe(response => {
+      this.videos = response.data,
+      this.pagesizemax=this.videos.length, 
+      console.log("minnnenne"+  this.pagesizemax)
+    })
+    
   }
  
   transform(url) {
@@ -46,13 +50,28 @@ export class HomeComponent implements OnInit {
     this.dataService.changeMessage(video);
   }
   nextVideos(){
+    
     this.page++;
-    this.videourlservice.getVideos(this.page).subscribe(response => this.videos = response.data)
-    this.disabled=false  
-    console.log(this.disabled)
+    this.videourlservice.getVideos(this.page).subscribe(response => {
+      this.videos = response.data,
+      this.pagesizemax=this.videos.length,
+      (this.pagesizemax<this.pagesize)?this.next=true : this.next=false;
+    })
+    this.previous=false
+   
+    
+    console.log("max : "+ this.pagesizemax + "min" + this.pagesize)
+    
+    
+    //if(page)
   }
   previousVideos(){
     this.page--;
+    this.next=false;
+    if(this.page ===0){
+      //this.disabled=true
+      this.previous=true
+    }
     this.videourlservice.getVideos(this.page).subscribe(response => this.videos = response.data)
   }
 }

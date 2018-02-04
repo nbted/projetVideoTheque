@@ -14,10 +14,10 @@
   <div class="col-sm-2">
   </div>
    <div class="col-sm-6">
-         <button ng-model="previous"  class="btn btn-info" (click)="previousVideos()">Previous</button>
+         <button ng-model="previous"  class="btn btn-info" (click)="previousVideos()" [disabled]="previous">Previous</button>
    </div>
    <div class="col-sm-4">
-      <button class="btn btn-warning" (click)="nextVideos()" >Next</button>
+      <button ng-model="next"class="btn btn-warning" (click)="nextVideos()"  [disabled]="next" >Next</button>
    </div>
   </div>
 
